@@ -5,6 +5,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 
+//TODO: Find a way to have things pull from the database
+//TODO: Code the buttons and the textViews so that they show the required information
+//TODO: Figure out a way of randomising things so the answer isn't always on the first button
+//TODO: See if there's a better way to add things to the database
+//TODO: Add more things to the database
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
